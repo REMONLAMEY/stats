@@ -13,7 +13,7 @@ void main()
 
 
 
-//printf("%d",swa(5,6));
+    //printf("%d",swa(5,6));
     // find_minimum(DATA_Base,DATA_LENGTH);
      sort_array(DATA_Base,DATA_LENGTH);
 print_Array(DATA_Base,DATA_LENGTH);
